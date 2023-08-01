@@ -1,0 +1,7 @@
+﻿  排序.cpp
+d:\work\project\面试手撕\project1\project1\排序.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\work\project\面试手撕\project1\project1\排序.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\work\project\面试手撕\project1\project1\排序.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\work\project\面试手撕\project1\project1\排序.cpp(164): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\work\project\面试手撕\project1\project1\排序.cpp(169): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\work\Project\面试手撕\Project1\x64\Debug\Project1.exe

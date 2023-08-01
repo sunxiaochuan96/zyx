@@ -1,0 +1,12 @@
+***		使用anaconda管理虚拟环境		***
+***		python=3.7,pytorch=1.10.1,cuda=11.3,cudnn=8.0		***
+***		mmcv环境搭建 https://github.com/open-mmlab/mmtracking/blob/master/docs/zh_cn/install.md		***
+numpy
+opencv-python
+yacs
+tqdm
+pyyaml
+matplotlib
+colorama
+cython
+tensorboardX
